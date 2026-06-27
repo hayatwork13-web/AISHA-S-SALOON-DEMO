@@ -1,0 +1,6 @@
+{
+  "name": "Aisha's Beauty Saloon",
+  "description": "Premium luxury ladies beauty salon and bridal studio website in Hyderabad, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
